@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&family=Crimson+Text:ital@1&family=Merriweather:ital,wght@0,400;1,300&display=swap');
+body {
+    background-color: rgb(3, 2, 2);
+    /* margin top: 0PX; */
+}
+
+#i1 {
+    background-color: rgb(209, 9, 9);
+    text-align: center;
+    color: rgb(29, 4, 46);
+    position: sticky;
+    top: 0px;
+    /* margin-left: 0px; */
+}
+
+.s {
+    height: 600px;
+    width: 18.3%;
+    background-color: rgb(187, 13, 13);
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -5px;
+    border: 2px solid rgb(67, 82, 67);
+    border-radius: 10px;
+}
+
+.s1 {
+    left: 19px;
+}
+
+.s2 {
+    left: 286px;
+}
+
+.s3 {
+    /* position: absolute; */
+    left: 553px;
+}
+
+.s4 {
+    /* position: absolute; */
+    left: 818px;
+}
+
+.s5 {
+    /* position: absolute; */
+    left: 1085px;
+}
+
+img {
+    width: 100%;
+    height: 200px;
+    border-radius: 7px;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(5, 5, 5);
+    text-decoration: underline;
+}
+
+p {
+    color: rgb(240, 243, 36);
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+}
+
+.w1 {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.x1 {
+    margin-top: 25px;
+}
+
+.x2 {
+    margin-top: 25px;
+}
+
+.x3 {
+    margin-top: 46px;
+}
+
+.x4 {
+    margin-top: 24px;
+}
+
+.x5 {
+    margin-top: 25px;
+}
+.o2{
+    background-color: rgb(255, 255, 0);
+    width: 170px;
+    height: 40px;
+    margin-left: 20%;
+    border-radius: 25px;
+    margin-top: -20px;
+    /* position: relative; */
+}
+#ls{
+    text-align: center;
+    color: black;
+    padding-top: 12px;
+}
